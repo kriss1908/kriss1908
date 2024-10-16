@@ -1,26 +1,27 @@
 # Hello, I'm krishna Rao
 <a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/github-0072b1?&style=for-the-badge&logo=github&logoColor=black" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vulnerability Assessment and Penetration Testing (VAPT). Seeking entry-level opportunities to apply skills and secure the digital world.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vulnerability Assessment and Penetration Testing (VAPT). Seeking entry-level opportunities to apply skills and secure the digital world.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Vulnerability Assessment and Penetration Testing (VAPT) | <a href="https://google.com">Detection Lab</a>|
+| Security Incident and Event Management (SIEM)  | <a href="https://google.com">Detection Lab</a>|
+| Identity and Access Management         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Static Application Security Testing (SAST)      | SOC Automation Lab|
+| Security Operations Centre (SOC) Monitoring | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -56,5 +57,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Steganography tool
+- VAPT on Acunetix 
