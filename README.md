@@ -2,29 +2,41 @@
 <a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/github-0072b1?&style=for-the-badge&logo=github&logoColor=black" /></a>
 
-[Brief Introduction - Remove this afterwards]
+<!--[Brief Introduction - Remove this afterwards]-->
+Hello! I'm Krishnarao, a recent BE graduate in Information Science and Engineering from Visvesvaraya Technological University with 8.45 CGPA, I am passionate about securing digital environments against evolving threats.
 
-Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vulnerability Assessment and Penetration Testing (VAPT). Seeking entry-level opportunities to apply skills and secure the digital world.
+During my academic journey, I developed a solid foundation in cybersecurity principles, including network security, ethical hacking, and risk assessment. I've also gained practical experience through internships and projects, where I applied my knowledge to real-world scenarios.
+
+Currently seeking entry-level opportunities in Cybersecurity, I am eager to contribute my skills and learn from seasoned professionals in the field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+<!--[Provide Objective - Remove this afterwards]]-->
 
 Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vulnerability Assessment and Penetration Testing (VAPT). Seeking entry-level opportunities to apply skills and secure the digital world.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!--[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]-->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assessment and Penetration Testing (VAPT) | <a href="https://www.dropbox.com/scl/fi/2xxfoex8x4hzg469k1puf/VAPT-Report-on-Aquentix.pdf?rlkey=tlizqjm0q2a5qb7oibifs05s2&st=l3xehikt&dl=0">Detection Lab</a>|
+| Vulnerability Assessment and Penetration Testing (VAPT) | <a href="https://www.dropbox.com/scl/fi/2xxfoex8x4hzg469k1puf/VAPT-Report-on-Aquentix.pdf?rlkey=tlizqjm0q2a5qb7oibifs05s2&st=l3xehikt&dl=0"> vapt report</a>|
 | Security Incident and Event Management (SIEM)  | <a >IBM QRadar, splunk </a>|
 | Identity and Access Management         | |
 | Incident Response Planning and Execution      | |
 | Static Application Security Testing (SAST)      | |
 | Security Operations Centre (SOC) Monitoring | |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### TOOLS
+<div>
+    <img src="https://img.shields.io/badge/-Active Directory-0078D4?&style=for-the-badge&logo=Active Directory&logoColor=white" />
+    <img src="https://img.shields.io/badge/-burp suite-000000?&style=for-the-badge&logo=Burp Suite&logoColor=orange" />
+    <img src="https://img.shields.io/badge/-SQLmap-005571?&style=for-the-badge&logo=sqlmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-kali linux-005571?&style=for-the-badge&logo=kali linux&logoColor=black" />
+    
+</div>
+
 
 ### Network
 <div>
@@ -46,18 +58,9 @@ Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vuln
    
 </div>
 
-### TOOLS
-<div>
-    <img src="https://img.shields.io/badge/-Active Directory-0078D4?&style=for-the-badge&logo=Active Directory&logoColor=white" />
-    <img src="https://img.shields.io/badge/-burp suite-000000?&style=for-the-badge&logo=Burp Suite&logoColor=orange" />
-    <img src="https://img.shields.io/badge/-SQLmap-005571?&style=for-the-badge&logo=sqlmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-kali linux-005571?&style=for-the-badge&logo=kali linux&logoColor=black" />
-    
-</div>
 
 ## Training and Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]-->
 <div>
 
 <img src="https://img.shields.io/badge/-CCNA-4D4D4D?&style=for-the-badge&logoColor=white" />
