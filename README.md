@@ -1,6 +1,6 @@
 # Hello, I'm krishna Rao
-<a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/github-0072b1?&style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/krishanarao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/kriss1908/kriss1908"><img src="https://img.shields.io/badge/github-0072b1?&style=for-the-badge&logo=github&logoColor=black" /></a>
 
 <!--[Brief Introduction - Remove this afterwards]-->
 Hello! I'm Krishnarao, a recent BE graduate in Information Science and Engineering from Visvesvaraya Technological University with 8.45 CGPA, I am passionate about securing digital environments against evolving threats.
