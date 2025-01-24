@@ -20,16 +20,15 @@ Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vuln
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment and Penetration Testing (VAPT) | <a href="https://www.dropbox.com/scl/fi/2xxfoex8x4hzg469k1puf/VAPT-Report-on-Aquentix.pdf?rlkey=tlizqjm0q2a5qb7oibifs05s2&st=l3xehikt&dl=0"> vapt report</a>|
-| Security Incident and Event Management (SIEM)  | <a >IBM QRadar, splunk </a>|
 | Identity and Access Management         | |
-| Incident Response Planning and Execution      | |
-| Static Application Security Testing (SAST)      | |
-| Security Operations Centre (SOC) Monitoring | |
+| Threat Detection & Incident Response      | |
+| Static Application Security Testing (SAST)      | FORTIFY,BEARER |
+| Security Operations Centre (SOC) Monitoring |<a> BASICS <a> |
 
 
 ### TOOLS
 <div>
-    <img src="https://img.shields.io/badge/-Active Directory-0078D4?&style=for-the-badge&logo=Active Directory&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active Directory (BASICS)-0078D4?&style=for-the-badge&logo=Active Directory&logoColor=white" />
     <img src="https://img.shields.io/badge/-burp suite-000000?&style=for-the-badge&logo=Burp Suite&logoColor=orange" />
     <img src="https://img.shields.io/badge/-SQLmap-005571?&style=for-the-badge&logo=sqlmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -45,7 +44,7 @@ Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vuln
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> -->
 </div>
 
-### Endpoint
+### Endpoint (BASICS)
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Antivirus-4B275F?&style=for-the-badge&logo=antivirus&logoColor=white" />
@@ -63,9 +62,9 @@ Cybersecurity and Ethical Hacking enthusiast with 6 months of experience in Vuln
 <!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]-->
 <div>
 
-<img src="https://img.shields.io/badge/-CCNA-4D4D4D?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-ETHICAL HACKING-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA (Besant Technologies)-4D4D4D?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ETHICAL HACKING (Internshala)-006400?&style=for-the-badge&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
 
 ## Projects
