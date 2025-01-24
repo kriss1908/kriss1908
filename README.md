@@ -3,7 +3,7 @@
 <a href="https://github.com/kriss1908/kriss1908"><img src="https://img.shields.io/badge/github-0072b1?&style=for-the-badge&logo=github&logoColor=black" /></a>
 
 <!--[Brief Introduction - Remove this afterwards]-->
-Hello! I'm Krishnarao, a recent BE graduate in Information Science and Engineering from Visvesvaraya Technological University with 8.45 CGPA, I am passionate about securing digital environments against evolving threats.
+A recent BE graduate in Information Science and Engineering from Visvesvaraya Technological University with 8.45 CGPA, I am passionate about securing digital environments against evolving threats.
 
 During my academic journey, I developed a solid foundation in cybersecurity principles, including network security, ethical hacking, and risk assessment. I've also gained practical experience through internships and projects, where I applied my knowledge to real-world scenarios.
 
